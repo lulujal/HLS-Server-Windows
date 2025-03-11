@@ -8,6 +8,7 @@ Langkah-langkah menjalankan
 https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z
 
 2. ekstrak hasil download lalu pindahkan ke C:
+3. rename menjadi folder jadi "ffmpeg"
 
-3. clone repositori
-4. ekstrak lalu jalankan mediamtx.exe dengan administrator
+4. clone repositori
+5. ekstrak lalu jalankan mediamtx.exe dengan administrator
